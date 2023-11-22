@@ -71,7 +71,6 @@ public class Main {
             System.out.println("Доставка невозможна");
         }
 
-
         System.out.println( );
     }
 
